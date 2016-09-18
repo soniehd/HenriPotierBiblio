@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bibliothèque d\'Henri Potier</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_apropos">Réalisée par Sonia Hdidou</string>
+    <string name="message_error_server">Impossible de se connecter au serveur, veuillez réessayer plus tard.</string>
+    <string name="title_error_server">Erreur Serveur</string>
+    <string name="drawer_header_text">Bibliothèque d\'Henri Potier</string>
+    <string name="nav_item_panier">Panier</string>
+    <string name="nav_item_promotions">Promotions</string>
+    <string name="nav_item_apropos">A propos</string>
+    <string name="nav_item_home">Home</string>
+    <string name="title_activity_detail_livre">DetailLivreActivity</string>
+    <string name="buy_button_text">Ajouter au panier</string>
+
+</resources>
